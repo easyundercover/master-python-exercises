@@ -9,14 +9,14 @@
 !README.md
 !README.es.md
 
-!/exercises
-!/exercises/*
+/exercises
+/exercises/*
 
 *.pyc
 __pycache__/
 .pytest_cache/
 
-!/.learn
+/.learn
 /.learn/**
-!/.learn/resets
-!/.learn/resets/**
+/.learn/resets
+/.learn/resets/**

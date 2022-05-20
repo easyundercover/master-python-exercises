@@ -2,6 +2,6 @@
 first_number = input("First input")
 second_number = input("Second input")
 third_number = input("Third input")
-# print here the sum of three inputs
 
-print(first_number+second_number)
+# print here the sum of three inputs
+print(int(first_number) + int(second_number) + int(third_number))

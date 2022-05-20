@@ -4,7 +4,7 @@
 #Hint: You can resolve this exercise either importing the math module or without it 
 def apple_sharing(n,k):
   
-  return None
+  return int(k)//int(n), int(k)%int(n)
  
     
 
